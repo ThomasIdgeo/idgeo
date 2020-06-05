@@ -1,6 +1,6 @@
 # Présentation d'IdGéo
 
-![](img/logo-idgeo.png)
+![](img/logo-idgeo-cmjn.png)
 
 Retrouvez toutes les infos utiles de notre SCOP sur le site [Site Idgeo](https://www.idgeo.fr/)
 
