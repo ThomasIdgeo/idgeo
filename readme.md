@@ -11,3 +11,8 @@ Et plus précisément qui sommes-nous ? [Site Idgeo - Qui sommes-nous?](https://
 - support de formation et usages du versionning
 
 - participation aux communautés Open Source géomatique
+
+
+## Petite démo de mise à jour de la page
+
+on refait la boucle
